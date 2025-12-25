@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.control {
+  margin-bottom: 20px;
+}
+
+input,
+textarea,
+select {
+  width: 100%;
+  font-size: 16px;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  padding: 15px;
+  width: 100%;
+  background: #444;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+}

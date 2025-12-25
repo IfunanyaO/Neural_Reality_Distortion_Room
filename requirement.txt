@@ -1,0 +1,16 @@
+opencv-python
+pyyaml
+diffusers
+transformers
+accelerate
+safetensors
+mediapipe
+SpeechRecognition
+pyaudio
+uvicorn
+fastapi
+PyOpenGL
+glfw
+numpy
+torch
+torchvision
